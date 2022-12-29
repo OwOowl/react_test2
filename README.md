@@ -1,3 +1,20 @@
+# 2022-12-28
+1. ES6 백틱
+2. 전개연산자
+
+
+# 2022-12-29
+1. 확장표현식
+2. 화살표함수
+3. 클래스
+4. 모듈
+5. 프로미스
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
